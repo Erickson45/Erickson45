@@ -11,23 +11,25 @@
 
 ## 👨‍💻 O Arquiteto por trás das Automações
 
-Sou um profissional de **Infraestrutura e Automação** focado em **Python, AIOps, Observabilidade e DevOps**. 
+Sou um **Engenheiro de Automação e AIOps** movido pela caça implacável aos gargalos operacionais (*toil*). Minha especialidade é olhar para ambientes complexos de TI, identificar lacunas onde o trabalho humano é desperdiçado em tarefas repetitivas e construir ecossistemas em **Python** que resolvem isso de forma autônoma.
 
-Nasci no suporte e no NOC, lidando frente a frente com o caos de incidentes críticos. Hoje, utilizo essa vivência para projetar soluções que **eliminam o trabalho braçal**, integram ecossistemas complexos e elevam a eficiência operacional de times técnicos corporativos.
+Nasci no suporte e no NOC, lidando frente a frente com o caos de incidentes críticos. Hoje, em vez de apenas operar as ferramentas, eu **desenvolvo as plataformas que operam por nós**. 
 
-Meu campo de batalha envolve transformar gargalos em fluxos invisíveis e automatizados usando **Python, APIs, Docker, Zabbix, Microsoft Graph e IA Local**.
+Arquiteto motores assíncronos que unem **Observabilidade (Zabbix)**, **Inteligência Artificial Local (LLMs/RAG)** e **Orquestração de APIs (Microsoft Graph, Teams)** para interceptar falhas, realizar triagens inteligentes e tomar decisões preventivas antes mesmo que a equipe precise intervir.
 
 ---
 
-## 🎯 Como eu impacto a operação técnica?
+## 🎯 Como eu transformo a operação com IA e Automação?
 
-Como grande parte do meu trabalho envolve o desenvolvimento de soluções internas e arquiteturas corporativas confidenciais, meu real valor se reflete na forma como eu resolvo problemas estruturais no dia a dia:
+Meu maior impacto está no desenvolvimento de soluções em código (*Python/Flask/SQLAlchemy*) que elevam times de N1/N2/N3 ao patamar de Engenharia de Confiabilidade (SRE). Na prática, eu gero valor através de:
 
-> **🛠️ Redução de Toil (Trabalho Manual):** Mapeamento de processos repetitivos em NOC/Infra e desenvolvimento de automações em Python (RPA, Scripts, Cron Jobs) para poupar centenas de horas da equipe.
+> **🤖 Engenharia de AIOps & Diagnóstico Cirúrgico:** Construí motores cognitivos conectando **LLMs Locais (Ollama)** e Busca Semântica Vetorial à API do Zabbix. O sistema lê o alerta, extrai métricas ao vivo, varre a base de conhecimento corporativa e entrega para o analista um diagnóstico de causa raiz com os comandos exatos de mitigação — em segundos.
 >
-> **📡 Observabilidade Inteligente:** Integração avançada do Zabbix com APIs (Microsoft Graph, Teams). Acredito que um alerta não deve ser apenas um aviso no chat, mas sim o gatilho inicial para um fluxo automatizado de resolução.
+> **⚡ Zero-Toil & Resolução em Massa (Auto-Ack):** Desenvolvi rotinas de *Load Balancing* e agrupamento inteligente de alertas (*Massive Cluster*). O sistema identifica tempestades de alertas no mesmo host, suprime os ruídos, realiza o *Auto-Acknowledge* e orquestra o ciclo de vida do incidente, reduzindo o trabalho braçal da equipe a quase zero.
 >
-> **🤖 AIOps & Triagem Autônoma:** Uso de IA Local e modelos de linguagem (LLMs) para analisar logs e alertas complexos, entregando para os times de resposta um pré-diagnóstico assertivo da causa raiz antes mesmo da intervenção humana.
+> **⚙️ Orquestração de Rotinas Complexas:** Automatizei processos vitais que antes dependiam de humanos. Criei robôs (*APScheduler/Eventlet*) que cruzam a escala de trabalho do RH (12x36, 5x2), consolidam o status dos incidentes e disparam relatórios ricos de **Passagem de Turno** diretamente nos canais corretos do Microsoft Teams.
+>
+> **📊 Observabilidade Executiva & SLA Tracker:** Arquitetei módulos de telemetria que calculam MTTA (Tempo Médio de Reconhecimento), MTTR e disponibilidade real. O sistema aplica projeções estatísticas de demanda e gera **Dossiês Executivos dinâmicos em PDF**, distribuídos autonomamente para lideranças.
 
 ---
 
