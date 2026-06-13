@@ -108,33 +108,6 @@ Experiência construída em ambientes de NOC, suporte técnico, infraestrutura, 
 
 ---
 
-## 📌 Projetos em Destaque
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://erickson45.github.io/ericksonqueiroz.github.io/" style="color: #00E5FF; text-decoration: none;">Portfólio Pessoal</a></h3>
-      <p>Desenvolvido para apresentar minha trajetória, projetos, certificações e foco profissional em Automação, AIOps, Python, Infraestrutura e Observabilidade.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 IncidentOps Lab</h3>
-      <p>Projeto conceitual em desenvolvimento para simular uma plataforma de automação de incidentes com Python, Flask, PostgreSQL, Docker e alertas simulados.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 Mini AIOps Search</h3>
-      <p>Projeto conceitual para busca inteligente em procedimentos técnicos, com foco em apoio à triagem, documentação e diagnóstico operacional.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 AutoReport Ops</h3>
-      <p>Automação para geração de relatórios técnicos e operacionais, com foco em incidentes, indicadores e acompanhamento de status.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏆 Formação e Certificações
 
 <div align="center">
