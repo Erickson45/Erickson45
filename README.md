@@ -13,18 +13,21 @@
 
 Sou um profissional de **Infraestrutura e Automação** focado em **Python, AIOps, Observabilidade e DevOps**. 
 
-Nasci no suporte e no NOC, lidando frente a frente com o caos de incidentes críticos. Hoje, utilizo essa vivência para projetar soluções que **eliminam o trabalho braçal**, integram ecossistemas complexos e elevam a eficiência operacional de times técnicos.
+Nasci no suporte e no NOC, lidando frente a frente com o caos de incidentes críticos. Hoje, utilizo essa vivência para projetar soluções que **eliminam o trabalho braçal**, integram ecossistemas complexos e elevam a eficiência operacional de times técnicos corporativos.
 
 Meu campo de batalha envolve transformar gargalos em fluxos invisíveis e automatizados usando **Python, APIs, Docker, Zabbix, Microsoft Graph e IA Local**.
 
 ---
 
-## 🚀 Radares e Focos Atuais
+## 🎯 Como eu impacto a operação técnica?
 
-*   **Orquestração:** Automação de processos operacionais pesados com Python.
-*   **Triagem Inteligente:** AIOps e LLMs locais aplicados ao diagnóstico de incidentes.
-*   **Observabilidade:** Monitoramento ativo e redução massiva de *toil*.
-*   **Comunicação Autônoma:** Integrações via APIs (Zabbix, MS Graph, Teams) para dashboards e alertas.
+Como grande parte do meu trabalho envolve o desenvolvimento de soluções internas e arquiteturas corporativas confidenciais, meu real valor se reflete na forma como eu resolvo problemas estruturais no dia a dia:
+
+> **🛠️ Redução de Toil (Trabalho Manual):** Mapeamento de processos repetitivos em NOC/Infra e desenvolvimento de automações em Python (RPA, Scripts, Cron Jobs) para poupar centenas de horas da equipe.
+>
+> **📡 Observabilidade Inteligente:** Integração avançada do Zabbix com APIs (Microsoft Graph, Teams). Acredito que um alerta não deve ser apenas um aviso no chat, mas sim o gatilho inicial para um fluxo automatizado de resolução.
+>
+> **🤖 AIOps & Triagem Autônoma:** Uso de IA Local e modelos de linguagem (LLMs) para analisar logs e alertas complexos, entregando para os times de resposta um pré-diagnóstico assertivo da causa raiz antes mesmo da intervenção humana.
 
 ---
 
@@ -54,6 +57,15 @@ Meu campo de batalha envolve transformar gargalos em fluxos invisíveis e automa
 
 ---
 
+## 🏆 Certificações Oficiais
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-AI_Professional-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Software_Engineering_Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
+
+---
+
 ## 📊 Telemetria (GitHub Stats)
 
 <div align="center">
@@ -62,33 +74,6 @@ Meu campo de batalha envolve transformar gargalos em fluxos invisíveis e automa
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson45&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" />
 
 </div>
-
----
-
-## 📌 Projetos & Atuações em Destaque
-
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 Sistema de Automação & AIOps</h3>
-      <p>Desenvolvimento em Python integrando LLMs locais à API do Zabbix. Solução criada para análise de causa raiz e triagem autônoma de incidentes, reduzindo drasticamente o trabalho manual (<i>toil</i>).</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Orquestrador de Alertas & ITSM</h3>
-      <p>Sincronização entre plataformas de monitoramento e mensageria corporativa (Microsoft Teams). Implementação de bots para agilizar o tempo de resposta (SLA) a falhas sistêmicas.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 RPA de Observabilidade & Dados</h3>
-      <p>Criação de rotinas em Python que agregam e processam múltiplas fontes de dados de infraestrutura simultaneamente, garantindo uma tomada de decisão centralizada.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Smart Ops Reporter</h3>
-      <p>Implementação de <i>cron jobs</i> e scripts automatizados para compilar e disparar relatórios técnicos críticos (disponibilidade e KPIs) diretamente para as lideranças.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
