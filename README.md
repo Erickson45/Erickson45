@@ -1,13 +1,10 @@
 <div align="center">
 
 <!-- Banner Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Erickson%20Queiroz&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Engenharia%20de%20Automação%20%7C%20AIOps%20%7C%20SRE&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Erickson%20Queiroz&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Engenharia%20de%20Automa%C3%A7%C3%A3o%20%7C%20AIOps%20%7C%20SRE&descAlignY=55&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Transformando+opera%C3%A7%C3%A3o+em+automa%C3%A7%C3%A3o;Python+%2B+Infraestrutura+%2B+AIOps;Automatizando+incidentes%2C+alertas+e+processos;IA+aplicada+%C3%A0+opera%C3%A7%C3%A3o+t%C3%A9cnica" alt="Typing SVG" />
 
-<br>
-
-[![Status](https://img.shields.io/badge/Status-Dispon%C3%ADvel_para_Oportunidades-00E5FF?style=for-the-badge&logo=rocket&logoColor=0F172A&labelColor=0F172A)](#)
 </div>
 
 ---
@@ -68,27 +65,27 @@ Meu campo de batalha envolve transformar gargalos em fluxos invisíveis e automa
 
 ---
 
-## 📌 Deployments & Projetos em Destaque
+## 📌 Projetos & Atuações em Destaque
 
 <table align="center" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 <a href="https://erickson45.github.io/ericksonqueiroz.github.io/" style="color: #00E5FF;">Portfólio Tech</a></h3>
-      <p>Desenvolvido para apresentar minha arquitetura profissional, certificações e foco técnico em Automação e Observabilidade corporativa.</p>
+      <h3>🔹 Sistema de Automação & AIOps</h3>
+      <p>Desenvolvimento em Python integrando LLMs locais à API do Zabbix. Solução criada para análise de causa raiz e triagem autônoma de incidentes, reduzindo drasticamente o trabalho manual (<i>toil</i>).</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 IncidentOps Lab</h3>
-      <p>Plataforma simuladora de automação de incidentes. Construída com Python, Flask, PostgreSQL, Docker e orquestração de alertas.</p>
+      <h3>🔹 Orquestrador de Alertas & ITSM</h3>
+      <p>Sincronização entre plataformas de monitoramento e mensageria corporativa (Microsoft Teams). Implementação de bots para agilizar o tempo de resposta (SLA) a falhas sistêmicas.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔹 Mini AIOps Search</h3>
-      <p>Motor de busca inteligente focado em procedimentos técnicos e <i>runbooks</i>, auxiliando no diagnóstico rápido e triagem de falhas.</p>
+      <h3>🔹 RPA de Observabilidade & Dados</h3>
+      <p>Criação de rotinas em Python que agregam e processam múltiplas fontes de dados de infraestrutura simultaneamente, garantindo uma tomada de decisão centralizada.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 AutoReport Ops</h3>
-      <p>Scripts autônomos para mineração de dados de infraestrutura e geração de relatórios de saúde, KPIs operacionais e status de SLAs.</p>
+      <h3>🔹 Smart Ops Reporter</h3>
+      <p>Implementação de <i>cron jobs</i> e scripts automatizados para compilar e disparar relatórios técnicos críticos (disponibilidade e KPIs) diretamente para as lideranças.</p>
     </td>
   </tr>
 </table>
