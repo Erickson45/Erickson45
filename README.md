@@ -109,7 +109,7 @@ Automação para geração de relatórios técnicos e operacionais com foco em i
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge\&logo=linkedin\&logoColor=00E5FF)](https://www.linkedin.com/in/erickson-queiroz-90428121b/)
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge\&logo=githubpages\&logoColor=00E5FF)](https://SEU-LINK-DO-PORTFOLIO-AQUI)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge\&logo=githubpages\&logoColor=00E5FF)](https://erickson45.github.io/ericksonqueiroz.github.io/)
 [![Email](https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge\&logo=gmail\&logoColor=00E5FF)](mailto:erickson.queiroz65@gmail.com)
 
 </div>
