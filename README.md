@@ -128,7 +128,7 @@ Experiência construída em ambientes de NOC, suporte técnico, infraestrutura, 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Erickson45&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson45&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson45&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117&hide=html,css" />
 
 </div>
 
