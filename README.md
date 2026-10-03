@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Banner Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Erickson%20Queiroz&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Infraestrutura%20%7C%20Automa%C3%A7%C3%A3o%20Python%20%7C%20AIOps%20%7C%20Observabilidade&descAlignY=55&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Erickson%20Queiroz&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Monitoramento%20%7C%20Automa%C3%A7%C3%A3o%20(Python)%20%7C%20AIOps%20%2F%20SRE&descAlignY=55&descSize=15" width="100%"/>
 
 <!-- Efeito de Digitação -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Transformando+opera%C3%A7%C3%A3o+em+automa%C3%A7%C3%A3o;Python+%2B+Infraestrutura+%2B+AIOps;Automatizando+incidentes%2C+alertas+e+processos;IA+aplicada+%C3%A0+opera%C3%A7%C3%A3o+t%C3%A9cnica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Transformando+opera%C3%A7%C3%A3o+em+automa%C3%A7%C3%A3o;Monitoramento+%2B+Python+%2B+AIOps;Automatizando+incidentes%2C+alertas+e+processos;IA+aplicada+%C3%A0+opera%C3%A7%C3%A3o+t%C3%A9cnica" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um profissional de **Infraestrutura e Automação** com foco em **Python, AIOps, Observabilidade e DevOps**.
+Sou um profissional de **Monitoramento, Automação e AIOps**, com experiência em ambientes críticos de TI, observabilidade, gestão de incidentes e cumprimento de SLA.
 
 Minha trajetória começou na linha de frente da tecnologia, atuando com suporte técnico, infraestrutura, redes, NOC, monitoramento e resposta a incidentes. Essa vivência prática me deu uma visão clara dos gargalos da operação e dos processos manuais que podem ser transformados em soluções automatizadas.
 
@@ -77,10 +77,29 @@ Atualmente, atuo desenvolvendo soluções internas com **Python/Flask**, integra
 
 ---
 
+## 📌 Projetos em Destaque
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Atlas — Zabbix / AIOps Module</h3>
+      <p>Excerto sanitizado da engine de monitoramento/alertas que desenvolvi no trabalho atual: ingestão e cache de alertas do Zabbix, agrupamento para relatórios executivos e auto-atribuição de incidentes. Roda em produção com <b>Docker + Nginx + PostgreSQL</b>.</p>
+      <a href="https://github.com/Erickson45/Atlas-Zabbix"><img src="https://img.shields.io/badge/GitHub-Atlas--Zabbix-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Nativy — Tradução Simultânea com IA</h3>
+      <p>Projeto pessoal open-source: chamadas de vídeo via WebRTC com tradução simultânea assistida por IA 100% local (Whisper + Ollama + gTTS), pensado para entrevistas e reuniões de trabalho em outro idioma.</p>
+      <a href="https://github.com/Erickson45/nativy"><img src="https://img.shields.io/badge/GitHub-Nativy-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 Experiência Prática
 
 ### 🏢 Softplan
-Atuação em **monitoramento, infraestrutura e automação operacional**, com desenvolvimento de plataforma interna em Python/Flask para centralização de incidentes, automação de alertas, integração com ferramentas corporativas e apoio à triagem técnica com IA local.
+Atuação em **monitoramento, infraestrutura e automação operacional**, incluindo o desenvolvimento do **Atlas** — plataforma interna em Python/Flask para centralização de incidentes, automação de alertas Zabbix e apoio à triagem técnica com IA local (um módulo sanitizado está publicado [aqui](https://github.com/Erickson45/Atlas-Zabbix)).
 * **Principais frentes:**
   * Desenvolvimento de soluções internas com Python, Flask e PostgreSQL.
   * Integração com Zabbix API, Microsoft Teams, Outlook e Microsoft Graph.
@@ -113,12 +132,14 @@ Experiência construída em ambientes de NOC, suporte técnico, infraestrutura, 
 <div align="center">
   <img src="https://img.shields.io/badge/Google_Cloud-AI_Professional-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Software_Engineering_Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Ciberseguran%C3%A7a_J%C3%BAnior-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-Especialista_em_IA-A000FF?style=for-the-badge&logo=alura&logoColor=white" />
+  <img src="https://img.shields.io/badge/Santander_Academy-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 <br>
 
 * 🎓 **DevOps** — Anhanguera
-* 🛡️ **Cisco Cybersecurity**
 * 📚 Estudos contínuos em Python, Docker, Linux, IA, Observabilidade e Cloud.
 
 ---
@@ -138,7 +159,7 @@ Experiência construída em ambientes de NOC, suporte técnico, infraestrutura, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/erickson-queiroz-90428121b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/erickson-queiroz/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=html5&logoColor=00E5FF)](https://erickson45.github.io/ericksonqueiroz.github.io/)
 [![Email](https://img.shields.io/badge/E--mail-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:erickson.queiroz65@gmail.com)
 
