@@ -50,6 +50,7 @@ Minha trajetória começou na linha de frente: suporte técnico, redes, NOC e mo
 ![Rancher](https://img.shields.io/badge/Rancher-0F172A?style=for-the-badge&logo=rancher&logoColor=00E5FF)
 ![Nginx](https://img.shields.io/badge/Nginx-0F172A?style=for-the-badge&logo=nginx&logoColor=00E5FF)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=00E5FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=00E5FF)
 
 ### 📨 Filas, Dados e Processamento Assíncrono
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0F172A?style=for-the-badge&logo=rabbitmq&logoColor=00E5FF)
@@ -60,6 +61,7 @@ Minha trajetória começou na linha de frente: suporte técnico, redes, NOC e mo
 ### 📡 Observabilidade e AIOps
 ![Zabbix](https://img.shields.io/badge/Zabbix-0F172A?style=for-the-badge&logo=zabbix&logoColor=00E5FF)
 ![Grafana](https://img.shields.io/badge/Grafana-0F172A?style=for-the-badge&logo=grafana&logoColor=00E5FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?style=for-the-badge&logo=prometheus&logoColor=00E5FF)
 ![Ollama](https://img.shields.io/badge/Ollama_/_LLMs-0F172A?style=for-the-badge&logo=ollama&logoColor=00E5FF)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0F172A?style=for-the-badge&logo=powerautomate&logoColor=00E5FF)
 
@@ -94,6 +96,23 @@ Minha trajetória começou na linha de frente: suporte técnico, redes, NOC e mo
       <a href="https://github.com/Erickson45/nativy"><img src="https://img.shields.io/badge/GitHub-Nativy-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🐉 RPG IA</h3>
+      <p>RPG em pixel art no navegador para aprender IA: <b>1.014 perguntas</b>, 18 classes e multijogador em tempo real (<b>Flask, SQLite, WebSockets, Canvas</b>). Hospedado e operado por mim em VM Linux com Nginx, Gunicorn, HTTPS, systemd e fail2ban.</p>
+      <a href="https://github.com/Erickson45/RPG-IA"><img src="https://img.shields.io/badge/GitHub-RPG--IA-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧹 PC Estribado</h3>
+      <p>App desktop open source de manutenção do Windows: limpeza, saúde do sistema, drivers e atualizações numa janela só, usando só ferramentas oficiais. Atualização automática com <b>verificação SHA-256</b> e zero telemetria.</p>
+      <a href="https://github.com/Erickson45/pc-estribado"><img src="https://img.shields.io/badge/GitHub-PC--Estribado-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🕹️ Portfólio interativo</h3>
+      <p>Terminal que aceita comandos, mascote em pixel art desenhado por código, minigame de plantão no NOC e diagrama interativo do Atlas. HTML/CSS/JS puro com <b>CI de qualidade</b> (html-validate, links e Lighthouse).</p>
+      <a href="https://erickson45.github.io/Meu-Portifolio/"><img src="https://img.shields.io/badge/Abrir-Portf%C3%B3lio-0F172A?style=for-the-badge&logo=githubpages&logoColor=00E5FF" /></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -117,6 +136,7 @@ Minha trajetória começou na linha de frente: suporte técnico, redes, NOC e mo
 <div align="center">
   <img src="https://img.shields.io/badge/Google-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Linux_and_SQL-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/IBM-Software_Engineering_Essentials-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Alura-Especialista_em_IA-A000FF?style=for-the-badge&logo=alura&logoColor=white" />
@@ -130,12 +150,20 @@ Minha trajetória começou na linha de frente: suporte técnico, redes, NOC e mo
 
 ---
 
+## 🎤 Palestras e Comunidade
+
+* **TDC Community** (out/2026) — workshop *"IA Todos os Dias: Agentes, Automações e Produtividade na Vida Real"*
+* **Meetup Tec Group** (jan/2026) — *"Introdução à IA para Desenvolvedores: Do Código ao Neurônio"* · [assistir no YouTube](https://www.youtube.com/watch?v=fWiAQzqXwFU)
+* **Brisanet e Softplan** — palestra de IA para 50 profissionais e treinamento interno para 12 colegas
+* **Instituto TIVIT** — mentoria voluntária de jovens no início da carreira em tecnologia
+
+---
+
 ## 📊 Telemetria (GitHub Stats)
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Erickson45&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson45&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117&hide=html,css" />
+<img src="https://streak-stats.demolab.com?user=Erickson45&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 
 </div>
 
