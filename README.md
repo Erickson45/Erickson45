@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=180&section=header&text=Erickson%20Queiroz&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=DevOps%20%7C%20SRE%20%7C%20Automa%C3%A7%C3%A3o%20%26%20AIOps&descAlignY=55&descSize=15" width="100%"/>
+<!-- Banner em pixel art (mesma arte do portfólio) -->
+<a href="https://erickson45.github.io/Meu-Portifolio/"><img src="assets/banner.png" alt="Erickson Queiroz · DevOps, SRE e AIOps · banner em pixel art com o mini-Erickson no sertão à noite" width="100%"/></a>
 
 <!-- Efeito de Digitação -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Analista+de+Aplica%C3%A7%C3%A3o+e+Infraestrutura+%40+Softplan;DevOps+%2B+SRE+%2B+AIOps;Docker+%7C+Kubernetes+%7C+Python+%7C+Zabbix;Transformando+opera%C3%A7%C3%A3o+em+automa%C3%A7%C3%A3o" alt="Typing SVG" />
